@@ -224,3 +224,15 @@ Python · pandas · NumPy · scikit-learn · Matplotlib · Flask · joblib · Gi
 ## Disclaimer
 
 This project is for educational and portfolio purposes. Predictions are model estimates and should not be interpreted as proof of fraudulent activity.
+
+## Application Demo
+
+![Fraud Detection Application](assets/fraud-detection-app.png)
+
+## Model Evaluation
+
+### Confusion Matrix
+![Confusion Matrix](assets/confusion_matrix.png)
+
+### Precision-Recall Curve
+![Precision-Recall Curve](assets/precision_recall_curve.png)
