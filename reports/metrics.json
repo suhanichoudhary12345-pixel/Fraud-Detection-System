@@ -1,0 +1,26 @@
+{
+    "Logistic Regression": {
+        "threshold": 0.12118755125140986,
+        "precision": 0.03879226740803,
+        "recall": 0.9584664536741214,
+        "f1_score": 0.07456658174361523,
+        "roc_auc": 0.9445163341166206,
+        "average_precision": 0.5799040719454072,
+        "true_negatives": 58480,
+        "false_positives": 29734,
+        "false_negatives": 52,
+        "true_positives": 1200
+    },
+    "Random Forest": {
+        "threshold": 0.6222041223404255,
+        "precision": 0.38289009932713874,
+        "recall": 0.9544728434504792,
+        "f1_score": 0.5465355591127372,
+        "roc_auc": 0.996654347534615,
+        "average_precision": 0.8845224725415674,
+        "true_negatives": 86288,
+        "false_positives": 1926,
+        "false_negatives": 57,
+        "true_positives": 1195
+    }
+}

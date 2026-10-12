@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Local dataset
+data/*.csv
+
+# Generated model files
+models/*.joblib
+
+# Python and editor settings
+.pytest_cache/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
